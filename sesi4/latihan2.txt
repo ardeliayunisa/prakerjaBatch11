@@ -1,0 +1,6 @@
+Simpan "width" dengan nilai berapapun
+Simpan "height" dengan nilai berapapun
+Simpan "area" tanpa diberikan nilai. Ini akan kita isi nanti.
+Hitung hasil perkalian "width" dengan "height"
+Setelah mendapatkan hasil perhitungan, isikan hasilnya ke dalam "area"
+Tampilkan nilai dari "area"

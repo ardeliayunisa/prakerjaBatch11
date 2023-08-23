@@ -1,0 +1,31 @@
+DISPLAY 1-100
+DISPLAY 1
+DISPLAY 2
+DISPLAY 3
+DISPLAY ...
+DISPLAY 100
+
+1-100
+1
+2
+3
+4
+5
+6
+...
+100
+
+SYARAT LOOPING:
+1. Inisiasi = kapan kita mulai
+2. Kondisi = kapan kita berhenti
+3. Iterasi = proses yg mendekati agar berhenti
+
+inisiasi = 1
+kondisi = 100
+iterasi = harus ditambahkan dengan 1
+
+
+STORE "hitung" with 1    -> INISIASI
+WHILE (hitung <= 1000)    -> KONDISI
+    DISPLAY "hitung"      -> AKSI
+    CALCULATE "hitung" + 1  -> ITERASI

@@ -1,0 +1,22 @@
+rumus luas ringkaran:
+L = π.r.r
+
+
+================
+
+
+READ "L" as hasil luas lingkaran
+READ and SAVE "π (phi)" equal 3.14
+READ and SAVE "r" as jari-jari lingkaran
+CALCULATE "3.14" dikalikan "r" dan dikalikan "r"
+SAVE hasil perhitungan yang didapat ke "L"
+DISPLAY "L" hasil dari perhitungan π.r.r
+
+
+=================
+
+
+
+
+
+

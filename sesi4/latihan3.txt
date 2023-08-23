@@ -1,0 +1,12 @@
+IF "hungry"
+    DO "eat"
+DISPLAY "i am happy"
+
+=========================
+
+STORE "nilai" to any number
+IF "nilai" < 70
+    DO "belajar lebih giat"
+ELSE
+    DO "beli eskrim"
+DO "melanjutkan hidup"

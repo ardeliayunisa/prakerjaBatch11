@@ -1,0 +1,16 @@
+rumus keliling lingkaran:
+K = 2.π.r
+
+
+==============================
+
+
+READ "K" as hasil keliling lingkaran
+ADD and SAVE "2"
+READ and SAVE "π (phi)" equal 3.14
+READ and SAVE "r" as jari-jari lingkaran
+CALCULATE "2" dikalikan "3.14" dan dikalikan "r"
+SAVE hasil perhitungan yang didapat ke "K"
+DISPLAY "K" hasil dari perhitungan 2.π.r
+
+====================================

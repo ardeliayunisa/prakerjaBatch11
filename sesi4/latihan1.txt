@@ -1,0 +1,18 @@
+BACA dan SIMPAN "nomor pertama"
+BACA dan SIMPAN "nomor kedua"
+MENGHITUNG "bilangan pertama" ditambah dengan "bilangan kedua"
+SIMPAN hasil perhitungan sebelumnya
+TUNJUKKAN hasil perhitungan
+
+
+READ and SAVE "first number"
+READ and SAVE "second number"
+CALCULATE "first number" added by "second number"
+SAVE previous computation result
+DISPLAY the computation result
+
+
+===================================
+kata kerja: HURUF KAPITAL
+objek/subjek: "menggunakan kutip"
+keterangan: kata biasa

@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2023-08-23T09:46:55.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="eIaNp_hNZzwUUGbcVyL8" version="21.3.3" type="google">
+  <diagram name="Page-1" id="vKVjaPwSWI_A53U6ooF4">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4EOTnz17CJRzMRCS2Z7-1" target="R4EOTnz17CJRzMRCS2Z7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4EOTnz17CJRzMRCS2Z7-2" target="R4EOTnz17CJRzMRCS2Z7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-2" value="Input π = 3.14" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="230" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4EOTnz17CJRzMRCS2Z7-3" target="R4EOTnz17CJRzMRCS2Z7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-3" value="input r = jari-jari lingkaran" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="183.5" y="334" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.466;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R4EOTnz17CJRzMRCS2Z7-4" target="R4EOTnz17CJRzMRCS2Z7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-4" value="L = π .r.r&lt;br&gt;dijabarkan&lt;br&gt;L = 3.14. x r x r" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="430" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4EOTnz17CJRzMRCS2Z7-7" target="R4EOTnz17CJRzMRCS2Z7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-7" value="inisialisasi L = hasil luas lingkaran" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="120" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R4EOTnz17CJRzMRCS2Z7-8" target="R4EOTnz17CJRzMRCS2Z7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-8" value="output : Display L&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="530" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R4EOTnz17CJRzMRCS2Z7-9" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214.5" y="625" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
